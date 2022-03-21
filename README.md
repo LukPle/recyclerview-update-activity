@@ -9,7 +9,11 @@ checks to result via an **ActivityResultLauncher**. The application serves as an
 
 ## Features
 The setting for this example is a shopping list. An ArrayList contains different items that need to be purchased. The items have a name and quantity.
-The user can update existing items of the list by clicking on them. This opens another Activity in which the user can put in the deatails of the item.
+The user can update existing items of the list by clicking on them. This opens another Activity in which the user can put in the deatails of the item. </br>
+
+![](demo_pictures/Screen1.png)
+![](demo_pictures/Screen2.png)
+![](demo_pictures/Screen3.png)
 
 ## Usage
 You can clone the repository into Android Studio by clicking "Get from VCS" in the Welcome Screen or navigating to "File - New - Project from Version Control" inside 
